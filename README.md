@@ -20,7 +20,8 @@ pip install -r requirements.txt
 4. Copy the API key to your `.env` file
 
 ### 4. Run the Application
-```chainlit run app.py -w
+```
+chainlit run app.py -w
 ```
 
 The application will be available at `http://localhost:8000`
