@@ -44,7 +44,7 @@ The chatbot uses a multi-agent system with LangGraph:
 
 1. **Router Agent**: Analyzes incoming messages and routes to appropriate agent
 2. **Base Agent**: Handles casual conversations (uses Gemini 1.5 Flash)
-3. **Advanced Agent**: Handles sensitive mental health topics (uses Gemini 1.5 Pro)
+3. **Advanced Agent**: Handles sensitive mental health topics (uses Gemini 2.0 Flash Lite)
 4. **Profile Building Agent**: Updates user profiles based on conversations
 
 ## Data Storage
